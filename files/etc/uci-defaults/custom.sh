@@ -7,8 +7,8 @@ uci set network.lan.ipaddr='10.0.0.1'
 
 # 配置WAN口为PPPoE拨号模式
 uci set network.wan.proto='pppoe'
-uci set network.wan.username='02188888888'
-uci set network.wan.password='888888'
+uci set network.wan.username=''
+uci set network.wan.password=''
 uci set network.wan.ifname='eth1'
 
 
