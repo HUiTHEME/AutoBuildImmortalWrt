@@ -15,9 +15,12 @@ PACKAGES="$PACKAGES curl"
 PACKAGES="$PACKAGES nano"
 PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
+PACKAGES="$PACKAGES luci-app-ddns-go"
 PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
+PACKAGES="$PACKAGES luci-app-passwall"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-socat"
+PACKAGES="$PACKAGES luci-i18n-socat-zh-cn"
 
 
 # 构建镜像
